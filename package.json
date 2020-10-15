@@ -1,0 +1,19 @@
+{
+  "name": "rock-paper-scissors-bot",
+  "version": "1.0.0",
+  "description": "Rock paper and scissors bot by Stuck.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Mttt",
+    "Stuck"
+  ],
+  "author": "Minthuta Tun aka Stuck",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.3.1",
+    "save": "^2.4.0"
+  }
+}
