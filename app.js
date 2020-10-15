@@ -113,4 +113,4 @@ client.on("message", msg => {
 });
 
 // Log in the bot with the token
-client.login("NzY1OTQ1Mzg1Mzk4NDM1ODQw.X4cMOg.BeiTtaem2teDurs1VEu2Mnanh6A");
+client.login(process.env.token);
