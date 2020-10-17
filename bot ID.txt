@@ -2,4 +2,4 @@ ID : 765945385398435840
 
 INVITE LINK : https://discord.com/api/oauth2/authorize?client_id=765945385398435840&scope=bot&permissions=1
 
-TOKEN : NzY1OTQ1Mzg1Mzk4NDM1ODQw.X4cMOg.Eqn1THd09O9DQDGzKhRdTjscxiE
+TOKEN : ******************************** 
